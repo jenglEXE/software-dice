@@ -1,0 +1,47 @@
+[DIE1]
+CLI tool
+Web app (browser-based)
+Desktop GUI app
+Bot (Discord/Slack/Telegram)
+Browser extension
+API/backend service (no UI)
+Notebook/script (Jupyter-style, run cell by cell)
+Text-based menu program (numbered options, no fancy UI)
+Local web dashboard (runs on localhost, viewed in browser)
+Widget/small window app (always-on-top mini tool)
+Email-based tool (does something when you email it)
+Voice-triggered tool (responds to spoken commands)
+
+[DIE2]
+Data tool (scrapes/parses/transforms/visualizes data)
+Game
+Automation/utility (does a repetitive task for you)
+Generator (procedurally makes content — text, art, music, names)
+Tracker/logger (monitors something over time)
+Simulator (models a system or process)
+Quiz/trivia tool
+Personal assistant (reminders, to-dos, notes)
+Converter (turns one format/unit/thing into another)
+Recommender (suggests things based on input)
+Visualizer (turns data or text into pictures/animations)
+Puzzle/logic tool (solves or generates puzzles)
+
+[DIE3]
+Give it a mascot or character that "talks" to the user
+Pick a theme (space, pirate, cottagecore, cyberpunk, forest, etc.) and reflect it in names/wording
+Add sound effects or musical feedback
+Add a color palette you wouldn't normally choose
+Include at least one silly/joke response hidden somewhere
+Make it customizable — user picks settings that change its personality
+Add a "surprise me" button/feature that does something random but fun
+Give it an ASCII art logo or splash screen
+Design it as a gift for a specific (real or imaginary) friend
+Add encouraging or funny messages instead of plain output
+Let it remember something about the user between runs (a name, a preference, a streak)
+Make it seasonal (Halloween, winter, birthday-themed, etc.)
+Add a light animation or transition effect
+Make the output shareable (e.g., generates a fun image or message to send someone)
+Give it a made-up "personality type" that affects how it responds
+Add a small easter egg only found by curious poking around
+Base its style on a favorite movie/show/game aesthetic (without using copyrighted assets)
+Let the user name it, and have it use that name in its own messages
