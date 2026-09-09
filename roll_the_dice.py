@@ -1,6 +1,14 @@
 import random
 
-def load_dice(filepath="dice.txt"):
+def resource_path(relative_path):
+    if hasattr(sys, '_MEIPASS'):
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
+
+def load_dice(filepath=None):
+    if filepath is None:
+        filepath = resource_path("dice.txt")
+
     with open(filepath, "r") as f:
         lines = f.readlines()
 
