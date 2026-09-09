@@ -25,7 +25,7 @@ class TerminalWindow(QMainWindow):
         font.setStyleHint(QFont.Monospace)
         self.output.setFont(font)
 
-        self.dice = load_dice("dice.txt")
+        self.dice = load_dice()
         self.rolling = False
 
         self.output.appendPlainText("Press space to roll.")
