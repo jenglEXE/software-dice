@@ -16,7 +16,7 @@ Voice-triggered tool (responds to spoken commands)
 Data tool (scrapes/parses/transforms/visualizes data)
 Game
 Automation/utility (does a repetitive task for you)
-Generator (procedurally makes content — text, art, music, names)
+Generator (procedurally makes content - text, art, music, names)
 Tracker/logger (monitors something over time)
 Simulator (models a system or process)
 Quiz/trivia tool
@@ -32,7 +32,7 @@ Pick a theme (space, pirate, cottagecore, cyberpunk, forest, etc.) and reflect i
 Add sound effects or musical feedback
 Add a color palette you wouldn't normally choose
 Include at least one silly/joke response hidden somewhere
-Make it customizable — user picks settings that change its personality
+Make it customizable - user picks settings that change its personality
 Add a "surprise me" button/feature that does something random but fun
 Give it an ASCII art logo or splash screen
 Design it as a gift for a specific (real or imaginary) friend

@@ -23,4 +23,4 @@ if __name__ == "__main__":
     dice = load_dice("dice.txt")
     print("Press space to roll.")
     with keyboard.Listener(on_press=on_press) as listener:
-        listener.join() 
+        listener.join()  
