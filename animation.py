@@ -31,15 +31,3 @@ def build_die(value, cell_w=7, cell_h=4):
     border = "┌" + "─" * width + "┐"
     bottom = "└" + "─" * width + "┘"
     return [border] + ["│" + line + "│" for line in lines] + [bottom]
-
-def clear_screen():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
-def animate_roll():
-    delays = [0.05, 0.05, 0.06, 0.08, 0.1, 0.15, 0.2, 0.3]
-    for delay in delays:
-        clear_screen()
-        for line in build_die(random.randint(1, 6)):
-            print(line)
-        time.sleep(delay)
-    clear_screen()
